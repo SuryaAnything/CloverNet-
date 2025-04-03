@@ -1,0 +1,4 @@
+C:/Users/main/rootdir/surya/neural_net/single_neuron/build/CMakeFiles/clove_nn.dir
+C:/Users/main/rootdir/surya/neural_net/single_neuron/build/CMakeFiles/CLove_NN_C.dir
+C:/Users/main/rootdir/surya/neural_net/single_neuron/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/main/rootdir/surya/neural_net/single_neuron/build/CMakeFiles/ZERO_CHECK.dir
